@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 chamakhi kais 
-student
-networks and security
-web dev 
-cloud
+ICT student
+
