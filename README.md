@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+chamakhi kais 
+student
+networks and security
+web dev 
+cloud
